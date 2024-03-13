@@ -1,1 +1,2 @@
-hello whats up 
+hello whats up
+trying somthing in git repository
